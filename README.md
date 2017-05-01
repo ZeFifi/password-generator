@@ -1,6 +1,6 @@
 # Password Generator
 
-I developed this password editor just to train during the holidays.
+I developed this password generator just to train during the holidays.
 
 # What I used
 
